@@ -1,7 +1,7 @@
-package com.wowsalil.splitwise.service;
+package com.machinecoding.splitwise.service;
 
-import com.wowsalil.splitwise.models.User;
-import com.wowsalil.splitwise.models.UserExpensesRelation;
+import com.machinecoding.splitwise.models.User;
+import com.machinecoding.splitwise.models.UserExpensesRelation;
 
 import java.util.HashMap;
 import java.util.Map;

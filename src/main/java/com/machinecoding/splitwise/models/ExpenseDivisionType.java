@@ -1,4 +1,4 @@
-package com.wowsalil.splitwise.models;
+package com.machinecoding.splitwise.models;
 
 /**
  * @author salil.mamodiya

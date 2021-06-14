@@ -1,6 +1,6 @@
-package com.wowsalil.splitwise.service;
+package com.machinecoding.splitwise.service;
 
-import com.wowsalil.splitwise.models.Expense;
+import com.machinecoding.splitwise.models.Expense;
 
 import java.util.Map;
 
